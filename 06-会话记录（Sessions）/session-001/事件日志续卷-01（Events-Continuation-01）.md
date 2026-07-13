@@ -1,0 +1,20 @@
+---
+id: session-001-events-continuation-01
+type: event-log
+status: active
+session_id: session-001
+continues: "事件日志（Events）.md"
+revision: 0
+updated_at: 2026-07-13T20:25:00+08:00
+last_event_id: evt-20260713-0189
+agent_may_modify: true
+---
+
+# Session 001 事件日志续卷 01
+
+> 本文件续接 `事件日志（Events）.md`，前卷最后事件为 `evt-20260713-0187`。只追加，不回改；纠错时追加“更正事件”。
+
+| 事件 ID | 时间 | 类型 | 描述 | 关联实体 |
+|---|---|---|---|---|
+| evt-20260713-0188 | 收获月 13 日 20:24 | 战斗/冲锋 | 第13轮艾伦命令玛拉留在后方掩护，德雷克与托宾跟随推进，随后举盾采取疾走。东侧守卫预备轻弩攻击：1d20(11)+3=14，未命中AC18；玛拉以短弓远距离反击，因超出正常射程具有劣势，2d20(18,5)取5+3=8，未命中，箭12→11。德雷克预备标枪远距离攻击，2d20(10,5)取5+3=8，未命中；托宾预备标枪远距离攻击，2d20(16,18)取16+3=19，命中弯角掩护后的东侧守卫，伤害1d6(4)+1=5，将已受伤守卫击倒。西侧守卫随后以轻弩攻击艾伦：1d20(13)+3=16，未命中AC18。艾伦共移动60尺，抵达坍塌路障的前半段。 | pc-alen, npc-hunter-mara, npc-captive-hunter, npc-hunter-tobin, enemy-maintenance-guard-east, enemy-maintenance-guard-west, loc-old-quarry |
+| evt-20260713-0189 | 收获月 13 日 20:24 | 战斗/推进 | 第14轮，玛拉遵照命令留在原转角后预备掩护。仅存的西侧守卫从右转弯角短暂探身，以轻弩攻击艾伦：1d20(7)+3=10，未命中AC18；攻击触发玛拉远距离反击，2d20(15,4)取4+3=7，未命中，箭11→10。守卫随后向更深处撤退并脱离视野。德雷克与托宾采取疾走跟进：德雷克进入坍塌困难地形并抵达艾伦身侧，托宾停在坍塌物近侧。当前轮到第14轮艾伦行动；艾伦9/14 HP，队伍无人受伤。 | pc-alen, npc-hunter-mara, npc-captive-hunter, npc-hunter-tobin, enemy-maintenance-guard-west, loc-old-quarry |
