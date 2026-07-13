@@ -2,9 +2,9 @@
 id: campaign-index
 type: index
 status: active
-revision: 64
-updated_at: 2026-07-13T20:24:00+08:00
-last_event_id: evt-20260713-0187
+revision: 65
+updated_at: 2026-07-13T20:25:00+08:00
+last_event_id: evt-20260713-0189
 agent_may_modify: true
 ---
 
@@ -19,17 +19,17 @@ agent_may_modify: true
 - 当前场景：`scene-maintenance-gallery-barricade-combat`
 - 当前地点：废弃采石场地下，圆形锚井右侧维护岩廊
 - 当前存档：[[02-当前状态（State）/当前存档（Resume）]]（save-0002，维护岩廊战斗中）
-- 当前战斗：[[02-当前状态（State）/当前战斗（Current-Combat）]]（combat-20260713-005，第13轮艾伦回合）
+- 当前战斗：[[02-当前状态（State）/当前战斗（Current-Combat）]]（combat-20260713-005，第14轮艾伦回合）
 
 ## 玩家角色
 
-- `pc-alen`：[[05-角色（Characters）/艾伦·褐石（Alen-Brownstone）]] — 人类圣武士 1，9/14 HP，AC18
+- `pc-alen`：[[05-角色（Characters）/艾伦·褐石（Alen-Brownstone）]] — 人类圣武士1，9/14 HP，AC18；位于坍塌困难地形前半段
 
 ## 活跃 NPC
 
-- `npc-captive-hunter`：[[03-战役（Campaign）/01-NPC（NPCs）/老德雷克（Old-Drake）]] — 10/11 HP，AC12，提灯、短刀、标枪
-- `npc-hunter-mara`：[[03-战役（Campaign）/01-NPC（NPCs）/玛拉（Mara）]] — 10/11 HP，AC12，短弓、12箭、短剑
-- `npc-hunter-tobin`：[[03-战役（Campaign）/01-NPC（NPCs）/托宾（Tobin）]] — 10/11 HP，AC12，短剑、标枪、半燃火把
+- `npc-captive-hunter`：[[03-战役（Campaign）/01-NPC（NPCs）/老德雷克（Old-Drake）]] — 10/11 HP，AC12，提灯、短刀；已抵达艾伦身侧，标枪已投出
+- `npc-hunter-mara`：[[03-战役（Campaign）/01-NPC（NPCs）/玛拉（Mara）]] — 10/11 HP，AC12，短弓、10箭、短剑；留在后方掩护
+- `npc-hunter-tobin`：[[03-战役（Campaign）/01-NPC（NPCs）/托宾（Tobin）]] — 10/11 HP，AC12，短剑、半燃火把；位于坍塌物近侧，标枪已投出
 - `npc-lina-forgefire`：[[03-战役（Campaign）/01-NPC（NPCs）/莉娜·锻火（Lina-Forgefire）]] — 黑木集矮人遗物鉴定师，已协助拼合完整地图
 - `npc-hiram`：[[03-战役（Campaign）/01-NPC（NPCs）/海勒姆（Hiram）]] — 翠溪村长老
 - `npc-old-green`：[[03-战役（Campaign）/01-NPC（NPCs）/老格林（Old-Green）]] — 翠溪村铁匠
@@ -37,9 +37,12 @@ agent_may_modify: true
 
 ## 活跃敌对实体
 
-- `enemy-maintenance-guard-east`：东侧守卫，5/9 HP，已撤过前方右转弯角，位置不可见
-- `enemy-maintenance-guard-west`：西侧守卫，9/9 HP，已撤过前方右转弯角，位置不可见
+- `enemy-maintenance-guard-west`：西侧守卫，射击落空后向维护岩廊深处撤退，位置不可见
 - `npc-keykeeper`：司钥官，位于维护岩廊深处；吟诵结束后出现震动与蓝白闪光，结果未知
+
+## 近期失去战斗能力的敌人
+
+- `enemy-maintenance-guard-east`：被托宾远距离投掷的标枪击倒，位于前方右转弯角附近
 
 ## 活跃任务
 
@@ -49,9 +52,9 @@ agent_may_modify: true
 
 ## 当前地点与相邻地点
 
-- 当前位置：右侧维护岩廊，坍塌路障外约50尺的转角后
+- 当前位置：艾伦与德雷克位于烧塌路障的困难地形前半段；托宾在坍塌物近侧；玛拉在后方原转角
 - 身后：圆形锚井、装卸廊、旧排水隧道出口方向
-- 前方：火焰已熄灭，坍塌路障形成10尺困难地形；约30尺外有右转弯角，两名守卫位置不可见
+- 前方：约35尺外为右转弯角；一名守卫倒在弯角附近，另一名守卫已向更深处撤退
 - 当前压力：司钥官的仪式可能已完成一个阶段；队伍仍处于战斗先攻中
 - 活跃线索：三合一完整地图、萨维尔调谐钥匙、赤鳞会计划重启锚点·一号
 
@@ -61,7 +64,8 @@ agent_may_modify: true
 
 ## 最近会话
 
-- [[06-会话记录（Sessions）/session-001/摘要（Summary）|Session 001]] — 进行中，当前事件至 evt-20260713-0187
+- [[06-会话记录（Sessions）/session-001/摘要（Summary）|Session 001]] — 进行中，当前事件至 evt-20260713-0189
+- [[06-会话记录（Sessions）/session-001/事件日志续卷-01（Events-Continuation-01）|事件日志续卷 01]] — 从 evt-20260713-0188 起
 
 ## 快捷入口
 
