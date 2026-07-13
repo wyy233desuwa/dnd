@@ -2,9 +2,9 @@
 id: campaign-clues-and-mysteries
 type: campaign-state
 status: active
-revision: 5
-updated_at: 2026-07-13T19:01:00+08:00
-last_event_id: evt-20260713-0173
+revision: 6
+updated_at: 2026-07-13T20:27:20+08:00
+last_event_id: evt-20260713-0206
 visibility: mixed
 agent_may_modify: true
 ---
@@ -43,6 +43,7 @@ agent_may_modify: true
 | clue-017 | 玛拉与托宾证实：更深处至少还有三名赤鳞会成员；戴红铜面具的女性首领被称为“司钥官”，已带主要器材前往下层控制室 | mystery-003 | 获救猎人证词 | discovered | 是 | evt-20260713-0173 |
 | clue-018 | 赤鳞会昨夜只把螺旋圆门打开不足一掌宽便被蓝白电光逼退；他们知道“褐石家的钥匙”已进入采石场，并计划在下一次龙脉强脉冲前重启一号锚点 | mystery-001, mystery-003 | 获救猎人证词 | discovered | 是 | evt-20260713-0173 |
 | clue-019 | 圆门右侧维护岩廊可通往下层控制室；第五名猎人赛拉坠入的侧沟与地下河相连，守卫没有找到尸体 | mystery-001, mystery-003 | 获救猎人证词 | discovered | 是 | evt-20260713-0173 |
+| clue-020 | 被制服的守卫自称赤鳞会雇佣护卫兼搬运工，确认司钥官正试图在下一次龙脉强脉冲前重启“锚点·一号”；他转述锚点损坏泄漏导致地下生物上涌、重启可“封住泄漏”，但此效果及赤鳞会高层真实目的尚未验证。守卫同时承认猎人被抓来带路、搬运器材并阻止回村示警 | mystery-001, mystery-003 | 制服守卫后低声审问 | discovered | 是 | evt-20260713-0206 |
 
 ## 三线索检查
 
