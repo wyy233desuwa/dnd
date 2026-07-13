@@ -2,9 +2,9 @@
 id: campaign-index
 type: index
 status: active
-revision: 66
-updated_at: 2026-07-13T20:25:10+08:00
-last_event_id: evt-20260713-0190
+revision: 67
+updated_at: 2026-07-13T20:25:20+08:00
+last_event_id: evt-20260713-0192
 agent_may_modify: true
 ---
 
@@ -17,19 +17,19 @@ agent_may_modify: true
 - 战役状态：`active`
 - 当前会话：`session-001`
 - 当前场景：`scene-maintenance-gallery-barricade-combat`
-- 当前地点：废弃采石场地下，圆形锚井右侧维护岩廊
+- 当前地点：废弃采石场地下，圆形锚井右侧维护岩廊，下层控制室青铜门框前
 - 当前存档：[[02-当前状态（State）/当前存档（Resume）]]（save-0002，维护岩廊战斗中）
-- 当前战斗：[[02-当前状态（State）/当前战斗（Current-Combat）]]（combat-20260713-005，第14轮艾伦回合）
+- 当前战斗：[[02-当前状态（State）/当前战斗（Current-Combat）]]（combat-20260713-005，第15轮艾伦回合）
 
 ## 玩家角色
 
-- `pc-alen`：[[05-角色（Characters）/艾伦·褐石（Alen-Brownstone）]] — 人类圣武士1，9/14 HP，AC18；位于右转弯角前约10尺，移动已用尽，动作未用
+- `pc-alen`：[[05-角色（Characters）/艾伦·褐石（Alen-Brownstone）]] — 人类圣武士1，9/14 HP，AC18；距正在下降的青铜栅门约30尺
 
 ## 活跃 NPC
 
-- `npc-captive-hunter`：[[03-战役（Campaign）/01-NPC（NPCs）/老德雷克（Old-Drake）]] — 10/11 HP，AC12，提灯、短刀；位于坍塌困难地形前半段，标枪已投出
-- `npc-hunter-mara`：[[03-战役（Campaign）/01-NPC（NPCs）/玛拉（Mara）]] — 10/11 HP，AC12，短弓、10箭、短剑；后方约80尺，下一轮跟进
-- `npc-hunter-tobin`：[[03-战役（Campaign）/01-NPC（NPCs）/托宾（Tobin）]] — 10/11 HP，AC12，短剑、半燃火把；位于坍塌物近侧，标枪已投出
+- `npc-captive-hunter`：[[03-战役（Campaign）/01-NPC（NPCs）/老德雷克（Old-Drake）]] — 10/11 HP，AC12，提灯、短刀；位于艾伦身侧
+- `npc-hunter-mara`：[[03-战役（Campaign）/01-NPC（NPCs）/玛拉（Mara）]] — 10/11 HP，AC12，短弓、10箭、短剑；位于艾伦后方约50尺并继续跟进
+- `npc-hunter-tobin`：[[03-战役（Campaign）/01-NPC（NPCs）/托宾（Tobin）]] — 10/11 HP，AC12，短剑、半燃火把；位于艾伦身后约10尺
 - `npc-lina-forgefire`：[[03-战役（Campaign）/01-NPC（NPCs）/莉娜·锻火（Lina-Forgefire）]] — 黑木集矮人遗物鉴定师，已协助拼合完整地图
 - `npc-hiram`：[[03-战役（Campaign）/01-NPC（NPCs）/海勒姆（Hiram）]] — 翠溪村长老
 - `npc-old-green`：[[03-战役（Campaign）/01-NPC（NPCs）/老格林（Old-Green）]] — 翠溪村铁匠
@@ -37,12 +37,12 @@ agent_may_modify: true
 
 ## 活跃敌对实体
 
-- `enemy-maintenance-guard-west`：西侧守卫，已向维护岩廊深处撤退，位置不可见
-- `npc-keykeeper`：司钥官，位于维护岩廊深处；吟诵结束后出现震动与蓝白闪光，结果未知
+- `enemy-maintenance-guard-west`：西侧守卫，9/9 HP，位于下降中的青铜栅门另一侧约15尺
+- `npc-keykeeper`：司钥官，位于下层控制室方向；门后透出不稳定蓝白光，仪式结果未知
 
 ## 近期失去战斗能力的敌人
 
-- `enemy-maintenance-guard-east`：被托宾远距离投掷的标枪击倒，位于前方右转弯角附近
+- `enemy-maintenance-guard-east`：被托宾远距离投掷的标枪击倒，位于前一个右转弯角附近
 
 ## 活跃任务
 
@@ -52,10 +52,10 @@ agent_may_modify: true
 
 ## 当前地点与相邻地点
 
-- 当前位置：艾伦位于右转弯角前约10尺；德雷克在坍塌困难地形前半段；托宾在近侧；玛拉在后方原转角
-- 身后：圆形锚井、装卸廊、旧排水隧道出口方向
-- 前方：右转弯角后情况不可见；一名守卫倒在弯角附近，另一名守卫已向更深处撤退
-- 当前压力：司钥官的仪式可能已完成一个阶段；队伍仍处于战斗先攻中
+- 当前位置：艾伦与德雷克位于右转弯角后的直廊中；托宾在艾伦后方约10尺；玛拉仍在弯角外约30尺
+- 身后：烧塌的灯油防线、圆形锚井、装卸廊、旧排水隧道出口方向
+- 前方：约30尺外为正在下降的配重青铜栅门；剩余守卫位于门后约15尺；更深处为下层控制室
+- 当前压力：栅门将在第15轮结束时完全闭合；司钥官的仪式可能已经完成一个阶段
 - 活跃线索：三合一完整地图、萨维尔调谐钥匙、赤鳞会计划重启锚点·一号
 
 ## 当前谜团与已知线索
@@ -64,7 +64,7 @@ agent_may_modify: true
 
 ## 最近会话
 
-- [[06-会话记录（Sessions）/session-001/摘要（Summary）|Session 001]] — 进行中，当前事件至 evt-20260713-0190
+- [[06-会话记录（Sessions）/session-001/摘要（Summary）|Session 001]] — 进行中，当前事件至 evt-20260713-0192
 - [[06-会话记录（Sessions）/session-001/事件日志续卷-01（Events-Continuation-01）|事件日志续卷 01]] — 从 evt-20260713-0188 起
 
 ## 快捷入口
