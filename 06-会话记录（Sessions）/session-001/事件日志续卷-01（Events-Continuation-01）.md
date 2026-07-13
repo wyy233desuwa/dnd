@@ -4,9 +4,9 @@ type: event-log
 status: active
 session_id: session-001
 continues: "事件日志（Events）.md"
-revision: 10
-updated_at: 2026-07-13T20:26:40+08:00
-last_event_id: evt-20260713-0202
+revision: 11
+updated_at: 2026-07-13T20:26:50+08:00
+last_event_id: evt-20260713-0203
 agent_may_modify: true
 ---
 
@@ -31,3 +31,4 @@ agent_may_modify: true
 | evt-20260713-0200 | 收获月 13 日 20:26 | 战斗/调谐钥匙/开门 | 第17轮艾伦使用动作，将银制萨维尔调谐钥匙插入匹配插槽并顺时针转动四分之一圈。插槽自动咬合钥匙卡脊，一道蓝白微光沿细铜传动管返回青铜门框；门框内部锁销依次退回，配重机构反向运转。德雷克与托宾同时协助抬门，青铜栅门升至门框上方并由固定栓锁住，通道完全开放。调谐钥匙在机构复位后可正常拔出，未损坏并仍由艾伦持有。艾伦本轮动作已用，30尺移动与附赠动作仍可使用。 | pc-alen, npc-captive-hunter, npc-hunter-tobin, npc-hunter-mara, loc-old-quarry |
 | evt-20260713-0201 | 收获月 13 日 20:26 | 战斗/重整/脱离接触 | 艾伦放弃第17轮剩余移动，在铜质检修座旁等待队友。第18轮玛拉、德雷克与托宾依次穿过开放栅门并与艾伦会合；期间重伤守卫与司钥官均未进入视野，也没有发动攻击，深处的脚步与金属操作声逐渐远离。连续一整轮没有直接敌对接触，combat-20260713-005的先攻暂时中止。队伍随后以艾伦举盾在前、德雷克持灯居中、玛拉与托宾掩护后方的队形向控制室深处谨慎移动30尺，抵达第一排大型铜质机组后的掩护线。此处可见一条血迹绕向右侧核心机构；重伤守卫及司钥官仍不可见。 | pc-alen, npc-hunter-mara, npc-captive-hunter, npc-hunter-tobin, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
 | evt-20260713-0202 | 收获月 13 日 20:26 | 探索/察觉/核心机构 | 艾伦留在第一排大型铜质机组后的掩护中观察中央环形机构。感知（察觉）检定1d20(3)+3=6，失败。艾伦确认多层铜环仍围绕黑色轴柱运转，蓝白电弧在环间不规则跳跃，近距离接触明显危险；银制调谐钥匙会随较强闪光产生微弱脉动。但他未能辨认电弧的稳定周期、控制节点或安全接近路线，也没有发现重伤守卫或司钥官的藏身位置。队伍保持原位与掩护，未受伤，敌人仍不可见。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
+| evt-20260713-0203 | 收获月 13 日 20:26 | 探索/察觉/换位观察 | 艾伦让玛拉换角度观察中央核心。玛拉沿第一排机组右侧掩护移动约15尺，在两座机组之间的狭缝处俯身观察；感知（察觉）检定1d20(8)+3=11。她没有辨认出电弧稳定周期，也没有看见重伤守卫或司钥官，但发现核心右侧外缘存在一条避开地面焦黑区的狭窄维护走道，主要由石质地面与铁格栅构成，并受机组外壳遮挡，明显比直接走向铜环更安全但仍无法保证无电击风险。维护走道通向核心后方一座腰高铜质操作台，台上可见手轮与长柄控制杆；地面血迹也沿该走道延伸并消失在操作台后方。玛拉停在右侧观察位，仍处于掩护中，队伍未暴露，先攻保持暂停。 | pc-alen, npc-hunter-mara, npc-captive-hunter, npc-hunter-tobin, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
