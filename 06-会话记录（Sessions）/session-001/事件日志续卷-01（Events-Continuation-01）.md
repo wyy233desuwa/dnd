@@ -4,9 +4,9 @@ type: event-log
 status: active
 session_id: session-001
 continues: "事件日志（Events）.md"
-revision: 3
-updated_at: 2026-07-13T20:25:30+08:00
-last_event_id: evt-20260713-0193
+revision: 4
+updated_at: 2026-07-13T20:25:40+08:00
+last_event_id: evt-20260713-0194
 agent_may_modify: true
 ---
 
@@ -22,3 +22,4 @@ agent_may_modify: true
 | evt-20260713-0191 | 收获月 13 日 20:25 | 战斗/疾走 | 第14轮艾伦使用动作疾走，移动10尺绕过右转弯角，再沿弯角后的直廊前进20尺。弯角后是约50尺长的直廊，尽头为通向下层控制室的青铜门框；剩余守卫位于艾伦前方约15尺，正在向门框方向后退。该守卫本轮已经行动且没有预备攻击，因此艾伦绕角时未触发攻击。艾伦动作与移动均已用尽，停在守卫前方约15尺。 | pc-alen, enemy-maintenance-guard-west, loc-old-quarry |
 | evt-20260713-0192 | 收获月 13 日 20:25 | 战斗/撤退/机关 | 第15轮，玛拉遵照新命令采取疾走跟进60尺，仍位于艾伦后方约50尺、当前弯角前约30尺。剩余守卫以轻弩攻击艾伦：1d20(6)+3=9，未命中AC18；随后后撤30尺，穿过青铜门框，并拉动释放链。门框上方的配重青铜栅门开始下降。德雷克采取疾走抵达艾伦身侧；托宾采取疾走抵达艾伦身后约10尺。当前轮到第15轮艾伦；栅门位于前方约30尺，正在下降，剩余守卫位于栅门另一侧约15尺，距艾伦约45尺。 | pc-alen, npc-hunter-mara, npc-captive-hunter, npc-hunter-tobin, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
 | evt-20260713-0193 | 收获月 13 日 20:25 | 战斗/突入 | 第15轮艾伦使用30尺正常移动冲向正在下降的青铜栅门，在下沿仍有足够空隙时俯身穿过，不需检定。艾伦停在栅门内侧，移动已用尽，动作与附赠动作尚未使用；剩余守卫位于前方约15尺，轻弩已经射出且尚未重新装填。栅门继续下降，若本回合不被阻止，将在艾伦身后完全落地，把他与德雷克、托宾和玛拉分隔。门后更深处可见不稳定蓝白光照亮部分铜质机构，但司钥官仍未进入清晰视野。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
+| evt-20260713-0194 | 收获月 13 日 20:25 | 战斗/远程攻击 | 第15轮艾伦在距剩余守卫约15尺处投掷一支标枪。攻击1d20(17)+5=22，命中AC12；伤害1d6(4)+3=7穿刺。标枪扎入守卫躯干，将其重创但未击倒。艾伦携带标枪3→2，9/14 HP不变；本轮移动与动作均已使用，附赠动作尚未使用。青铜栅门仍在身后下降，尚未结算回合结束时的完全闭合。 | pc-alen, enemy-maintenance-guard-west, loc-old-quarry |
