@@ -4,9 +4,9 @@ type: event-log
 status: active
 session_id: session-001
 continues: "事件日志（Events）.md"
-revision: 4
-updated_at: 2026-07-13T20:25:40+08:00
-last_event_id: evt-20260713-0194
+revision: 5
+updated_at: 2026-07-13T20:25:50+08:00
+last_event_id: evt-20260713-0196
 agent_may_modify: true
 ---
 
@@ -23,3 +23,5 @@ agent_may_modify: true
 | evt-20260713-0192 | 收获月 13 日 20:25 | 战斗/撤退/机关 | 第15轮，玛拉遵照新命令采取疾走跟进60尺，仍位于艾伦后方约50尺、当前弯角前约30尺。剩余守卫以轻弩攻击艾伦：1d20(6)+3=9，未命中AC18；随后后撤30尺，穿过青铜门框，并拉动释放链。门框上方的配重青铜栅门开始下降。德雷克采取疾走抵达艾伦身侧；托宾采取疾走抵达艾伦身后约10尺。当前轮到第15轮艾伦；栅门位于前方约30尺，正在下降，剩余守卫位于栅门另一侧约15尺，距艾伦约45尺。 | pc-alen, npc-hunter-mara, npc-captive-hunter, npc-hunter-tobin, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
 | evt-20260713-0193 | 收获月 13 日 20:25 | 战斗/突入 | 第15轮艾伦使用30尺正常移动冲向正在下降的青铜栅门，在下沿仍有足够空隙时俯身穿过，不需检定。艾伦停在栅门内侧，移动已用尽，动作与附赠动作尚未使用；剩余守卫位于前方约15尺，轻弩已经射出且尚未重新装填。栅门继续下降，若本回合不被阻止，将在艾伦身后完全落地，把他与德雷克、托宾和玛拉分隔。门后更深处可见不稳定蓝白光照亮部分铜质机构，但司钥官仍未进入清晰视野。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
 | evt-20260713-0194 | 收获月 13 日 20:25 | 战斗/远程攻击 | 第15轮艾伦在距剩余守卫约15尺处投掷一支标枪。攻击1d20(17)+5=22，命中AC12；伤害1d6(4)+3=7穿刺。标枪扎入守卫躯干，将其重创但未击倒。艾伦携带标枪3→2，9/14 HP不变；本轮移动与动作均已使用，附赠动作尚未使用。青铜栅门仍在身后下降，尚未结算回合结束时的完全闭合。 | pc-alen, enemy-maintenance-guard-west, loc-old-quarry |
+| evt-20260713-0195 | 收获月 13 日 20:25 | 战斗/神圣感知/机关 | 第15轮艾伦使用附赠动作发动神圣感知，消耗次数2→1。在以艾伦为中心60尺范围内，没有感知到不死生物、邪魔或天界生物；重伤守卫是普通活人，蓝白发光的铜质机构本身也未产生对应存在感。与此同时，艾伦的银制萨维尔调谐钥匙仍独立朝下层控制室深处产生类似心跳的脉动，此反应不属于神圣感知结果。艾伦结束回合后，配重青铜栅门完全落地并啮合锁定，将艾伦与三名猎人分隔，但栅条间仍可传递视线和声音。 | pc-alen, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
+| evt-20260713-0196 | 收获月 13 日 20:25 | 战斗/撤退/追赶 | 第16轮玛拉采取疾走继续跟进60尺，停在青铜栅门外约20尺。重伤守卫高喊“司钥官！他进来了！”，丢下尚未装填的轻弩，带着扎在躯干上的艾伦标枪采取疾走向下层控制室深处撤退60尺，绕过铜质机构后脱离清晰视野。德雷克移动30尺抵达栅门外，尝试抬起栅门：力量检定1d20(2)+1=3，未能撼动锁定的配重机构。托宾采取疾走抵达栅门外，与德雷克并列。当前进入第16轮艾伦回合；艾伦位于栅门内侧，移动、动作与附赠动作均可使用。 | pc-alen, npc-hunter-mara, npc-captive-hunter, npc-hunter-tobin, enemy-maintenance-guard-west, npc-keykeeper, loc-old-quarry |
