@@ -2,9 +2,9 @@
 id: state-calendar
 type: state
 status: active
-revision: 46
-updated_at: 2026-07-13T20:22:00+08:00
-last_event_id: evt-20260713-0178
+revision: 47
+updated_at: 2026-07-13T20:24:00+08:00
+last_event_id: evt-20260713-0187
 agent_may_modify: true
 ---
 
@@ -28,7 +28,7 @@ agent_may_modify: true
 ## 当前时间
 
 - 当前日期：王国历 742 年，收获月第 13 天
-- 当前时间：晚上约 20:22
+- 当前时间：晚上约 20:24
 - 星期或周期：七日周期第 4 天，距离翠溪村集市日还有一天
 - 季节：初秋
 - 天气：晴朗，太阳开始西斜，采石场内阴影渐长

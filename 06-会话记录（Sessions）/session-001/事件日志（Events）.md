@@ -3,8 +3,8 @@ id: session-001-events
 type: event-log
 status: active
 session_id: session-001
-revision: 32
-updated_at: 2026-07-13T20:23:00+08:00
+revision: 33
+updated_at: 2026-07-13T20:24:00+08:00
 agent_may_modify: true
 ---
 
@@ -200,3 +200,4 @@ agent_may_modify: true
 | evt-20260713-0184 | 收获月 13 日 20:22 | 战斗 | 第2轮，东侧与西侧守卫因路障火势加剧，均从射击缝后向深处后撤；队伍隔着转角听见弩机重新上弦与脚步远离，无法直接看见其新位置。玛拉预备射击转角视野内出现的敌人；德雷克与托宾继续保持掩护和闪避。司钥官的吟诵节奏变快。当前轮到艾伦；路障燃烧进度2/3。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, loc-old-quarry |
 | evt-20260713-0185 | 收获月 13 日 20:22 | 战斗/指挥 | 第2轮艾伦留在转角完全掩护后，向队伍下达同步冲锋安排并采取闪避。回合结束时火势推进至3/3，木质矿箱支架烧断，铜板与矿箱向内坍塌；原路障失去固定掩护作用，但燃烧区域仍在，浓烟使坍塌处成为重度遮蔽。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, loc-old-quarry |
 | evt-20260713-0186 | 收获月 13 日 20:23 | 战斗/预备 | 第3轮，两名守卫因无人暴露而没有射击，改为在烟幕后预备轻弩攻击。玛拉在转角边预备短弓攻击任何从烟后露面的目标；德雷克与托宾各取出1支标枪，预备在艾伦冲出转角时同步投掷。当前轮到艾伦发起或取消冲锋。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, loc-old-quarry |
+| evt-20260713-0187 | 收获月 13 日 20:24 | 战斗/等待 | 艾伦决定等待火焰自行熄灭。约一分钟内，全队反复保持完全掩护与远程预备，没有进入燃烧区；两名守卫也未射击，借烟幕继续向深处撤离。灯油火焰最终熄灭，浓烟大部散去；坍塌矿箱与铜板形成十尺困难地形。前方约三十尺外还有一道向右折转的石廊弯角，守卫已不在视野内。等待期间，司钥官的吟诵完成一个尖锐尾音，深处随即传来一次沉闷震动和短暂蓝白闪光，之后吟诵停止。combat-20260713-005仍持续，当前约第13轮艾伦回合；玛拉、德雷克与托宾仍维持同步冲锋预备。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, loc-old-quarry |
