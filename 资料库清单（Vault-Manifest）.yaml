@@ -1,0 +1,48 @@
+vault:
+  id: dnd-local-agent-vault
+  name: DND本地Agent跑团库
+  version: 1.0.0
+  language: zh-CN
+  filename_style: bilingual
+
+entrypoints:
+  protocol: "AGENT（Agent-Protocol）.md"
+  index: "INDEX（Campaign-Index）.md"
+  resume: "02-当前状态（State）/当前存档（Resume）.md"
+  current_combat: "02-当前状态（State）/当前战斗（Current-Combat）.md"
+  calendar: "02-当前状态（State）/游戏日历（Calendar）.md"
+  open_loops: "02-当前状态（State）/未完成事项（Open-Loops）.md"
+  session_index: "06-会话记录（Sessions）/会话索引（Session-Index）.md"
+
+canonical_directories:
+  preferences: "01-玩家偏好（Preferences）"
+  state: "02-当前状态（State）"
+  campaign: "03-战役（Campaign）"
+  lore: "04-世界观（Lore）"
+  characters: "05-角色（Characters）"
+  sessions: "06-会话记录（Sessions）"
+  rules: "07-规则（Rules）"
+  templates: "08-模板（Templates）"
+  archive: "09-归档（Archive）"
+  system: "10-系统（System）"
+
+id_prefixes:
+  player_character: pc-
+  npc: npc-
+  location: loc-
+  quest: quest-
+  faction: faction-
+  item: item-
+  creature: creature-
+  clue: clue-
+  scene: scene-
+  event: evt-
+  checkpoint: checkpoint-
+
+state_authority:
+  current_scene: resume
+  combat_transient_state: current_combat
+  character_persistent_state: character_files
+  entity_persistent_state: entity_files
+  history: event_logs
+  navigation: index
