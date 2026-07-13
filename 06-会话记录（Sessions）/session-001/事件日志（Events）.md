@@ -3,8 +3,8 @@ id: session-001-events
 type: event-log
 status: active
 session_id: session-001
-revision: 30
-updated_at: 2026-07-13T20:22:30+08:00
+revision: 31
+updated_at: 2026-07-13T20:22:45+08:00
 agent_may_modify: true
 ---
 
@@ -196,3 +196,5 @@ agent_may_modify: true
 | evt-20260713-0180 | 收获月 13 日 20:22 | 战斗 | 第1轮，东侧守卫从射击缝以轻弩攻击艾伦：1d20(4)+3=7，未命中AC18。该攻击触发玛拉预备的反击，但玛拉短弓攻击自然1，自动未命中；箭数14→13。 | pc-alen, npc-hunter-mara, enemy-maintenance-guard-east, loc-old-quarry |
 | evt-20260713-0181 | 收获月 13 日 20:22 | 战斗 | 第1轮玛拉回合，她再次射击东侧射击缝，攻击自然20，重击；伤害2d6(1,2)+1=4。箭穿过窄缝命中，东侧守卫HP9→5；箭数13→12。 | npc-hunter-mara, enemy-maintenance-guard-east, loc-old-quarry |
 | evt-20260713-0182 | 收获月 13 日 20:22 | 战斗 | 第1轮，西侧守卫从射击缝以轻弩攻击艾伦：1d20(5)+3=8，未命中AC18。德雷克与托宾保持在艾伦身后并采取闪避，等待火势削弱路障。当前轮到艾伦；灯油区仍燃烧，木箱路障已开始着火。 | pc-alen, npc-captive-hunter, npc-hunter-tobin, enemy-maintenance-guard-west, loc-old-quarry |
+| evt-20260713-0183 | 收获月 13 日 20:22 | 战斗/移动 | 第1轮艾伦后撤10尺进入最近的石廊转角，取得对路障方向的完全掩护并采取闪避。玛拉、德雷克与托宾一并收拢到转角后。第1轮结束时灯油继续燃烧，木箱路障燃烧进度1/3→2/3。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, loc-old-quarry |
+| evt-20260713-0184 | 收获月 13 日 20:22 | 战斗 | 第2轮，东侧与西侧守卫因路障火势加剧，均从射击缝后向深处后撤；队伍隔着转角听见弩机重新上弦与脚步远离，无法直接看见其新位置。玛拉预备射击转角视野内出现的敌人；德雷克与托宾继续保持掩护和闪避。司钥官的吟诵节奏变快。当前轮到艾伦；路障燃烧进度2/3。 | pc-alen, npc-captive-hunter, npc-hunter-mara, npc-hunter-tobin, loc-old-quarry |
