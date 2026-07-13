@@ -2,9 +2,9 @@
 id: campaign-index
 type: index
 status: active
-revision: 68
-updated_at: 2026-07-13T20:25:30+08:00
-last_event_id: evt-20260713-0193
+revision: 69
+updated_at: 2026-07-13T20:25:40+08:00
+last_event_id: evt-20260713-0194
 agent_may_modify: true
 ---
 
@@ -23,7 +23,7 @@ agent_may_modify: true
 
 ## 玩家角色
 
-- `pc-alen`：[[05-角色（Characters）/艾伦·褐石（Alen-Brownstone）]] — 人类圣武士1，9/14 HP，AC18；已进入下降中的青铜栅门内侧，移动已用，动作未用
+- `pc-alen`：[[05-角色（Characters）/艾伦·褐石（Alen-Brownstone）]] — 人类圣武士1，9/14 HP，AC18；位于青铜栅门内侧，移动和动作已用，附赠动作未用；携带标枪2支
 
 ## 活跃 NPC
 
@@ -37,7 +37,7 @@ agent_may_modify: true
 
 ## 活跃敌对实体
 
-- `enemy-maintenance-guard-west`：西侧守卫，9/9 HP，位于艾伦前方约15尺，轻弩尚未重新装填
+- `enemy-maintenance-guard-west`：西侧守卫，位于艾伦前方约15尺，被标枪重创但仍站立，轻弩尚未重新装填
 - `npc-keykeeper`：司钥官，位于下层控制室方向；更深处透出不稳定蓝白光，具体位置仍不清晰
 
 ## 近期失去战斗能力的敌人
@@ -54,8 +54,8 @@ agent_may_modify: true
 
 - 当前位置：艾伦位于青铜栅门内侧；德雷克和托宾仍在门外，玛拉继续从后方跟进
 - 身后：正在下降的配重青铜栅门、直廊、烧塌的灯油防线、圆形锚井
-- 前方：约15尺外为剩余守卫；更深处为下层控制室及发出蓝白光的铜质机构
-- 当前压力：栅门将在第15轮结束时完全闭合，可能将艾伦与队友分隔；司钥官的仪式可能已经完成一个阶段
+- 前方：约15尺外为被标枪重创的剩余守卫；更深处为下层控制室及发出蓝白光的铜质机构
+- 当前压力：栅门将在艾伦结束第15轮回合时完全闭合，可能将艾伦与队友分隔；司钥官的仪式可能已经完成一个阶段
 - 活跃线索：三合一完整地图、萨维尔调谐钥匙、赤鳞会计划重启锚点·一号
 
 ## 当前谜团与已知线索
@@ -64,7 +64,7 @@ agent_may_modify: true
 
 ## 最近会话
 
-- [[06-会话记录（Sessions）/session-001/摘要（Summary）|Session 001]] — 进行中，当前事件至 evt-20260713-0193
+- [[06-会话记录（Sessions）/session-001/摘要（Summary）|Session 001]] — 进行中，当前事件至 evt-20260713-0194
 - [[06-会话记录（Sessions）/session-001/事件日志续卷-01（Events-Continuation-01）|事件日志续卷 01]] — 从 evt-20260713-0188 起
 
 ## 快捷入口
