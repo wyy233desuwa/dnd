@@ -2,9 +2,9 @@
 id: campaign-index
 type: index
 status: active
-revision: 98
-updated_at: 2026-07-13T20:35:00+08:00
-last_event_id: evt-20260713-0227
+revision: 99
+updated_at: 2026-07-13T20:37:00+08:00
+last_event_id: evt-20260713-0228
 agent_may_modify: true
 ---
 
@@ -14,21 +14,21 @@ agent_may_modify: true
 
 - 战役状态：`active`
 - 当前会话：`session-001`
-- 当前场景：`scene-old-quarry-keykeeper-search`
+- 当前场景：`scene-old-quarry-keykeeper-loot-collected`
 - 当前地点：废弃采石场东侧坡面，破损挡土墙与旧矿车检修道附近
 - 当前存档：[[02-当前状态（State）/当前存档（Resume）]]
 - 最近战斗：[[02-当前状态（State）/当前战斗（Current-Combat）]]（combat-20260713-005，ended，司钥官死亡）
 
 ## 玩家角色
 
-- `pc-alen`：3/14 HP，AC18；位于司钥官尸体旁；盾牌在手、右手空；随身标枪0支；神圣感知1/2，调谐钥匙完好
+- `pc-alen`：3/14 HP，AC18；位于司钥官尸体旁；盾牌在手、右手空；随身标枪1支，另1支仍在凯尔身上；携带司钥官器材袋、全部资料与调谐器材；神圣感知1/2，调谐钥匙完好
 
 ## 活跃 NPC 与现场人员
 
-- `npc-hunter-tobin`：7/11 HP，AC12；尸体近侧协助搜查
-- `npc-hunter-mara`：10/11 HP，AC12；警戒旧矿车检修道，短弓8箭
+- `npc-hunter-tobin`：7/11 HP，AC12；尸体近侧警戒
+- `npc-hunter-mara`：10/11 HP，AC12；警戒旧矿车检修道，短弓9箭
 - `npc-captive-hunter`：10/11 HP，AC12；尸体旁持提灯
-- `npc-keykeeper`：已死亡；尸体与器材袋已搜查，遗留物尚未分配
+- `npc-keykeeper`：已死亡；普通短剑与损坏箭矢残件仍在尸体旁
 - `enemy-maintenance-guard-west`／凯尔·丹恩：地下核心操作台旁重伤、清醒、未被捆绑
 
 ## 当前地点、路线与新情报
@@ -40,11 +40,10 @@ agent_may_modify: true
 - 下层封库必须由褐石／萨维尔调谐钥匙开启，禁止强拆
 - 北部山脊、老裂口下方记录有“第二回声”
 - 赤鳞会失败联络路线通往黑木集旧石灰窑，联络代号为“灰鸦”，期限为收获月十六日前
-- 现场红铜面具、分叉调谐杆、器材袋与技术材料、短剑、标枪及箭矢尚未正式收取
+- 红铜面具、分叉调谐杆、现场笔记、撤退路线图与全部技术材料已由艾伦收取
 
 ## 活跃任务
 
-- 决定如何处理司钥官遗留的关键资料与调谐器材
 - 返回地下处理凯尔并确认锚点一号长期安全
 - 调查北部山脊、老裂口下方的第二回声
 - 调查黑木集旧石灰窑与灰鸦联络点
@@ -52,4 +51,4 @@ agent_may_modify: true
 
 ## 最近会话
 
-- [[06-会话记录（Sessions）/session-001/事件日志续卷-04（Events-Continuation-04）|事件日志续卷 04]] — 从evt-20260713-0223起，当前至evt-20260713-0227
+- [[06-会话记录（Sessions）/session-001/事件日志续卷-05（Events-Continuation-05）|事件日志续卷 05]] — 从evt-20260713-0228起，当前至evt-20260713-0228
