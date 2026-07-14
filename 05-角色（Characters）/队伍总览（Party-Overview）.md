@@ -2,9 +2,9 @@
 id: party-overview
 type: index
 status: active
-revision: 3
-updated_at: 2026-07-13T20:29:10+08:00
-last_event_id: evt-20260713-0213
+revision: 4
+updated_at: 2026-07-13T20:29:20+08:00
+last_event_id: evt-20260713-0214
 agent_may_modify: true
 ---
 
@@ -22,7 +22,7 @@ agent_may_modify: true
 
 | 实体 ID | 名称 | 当前 HP | AC | 主要装备 | 当前职责 | 文件 |
 |---|---|---:|---:|---|---|---|
-| npc-hunter-tobin | 托宾 | 10/11 | 12 | 短剑、熄灭的半燃火把 | 前卫保护；首个左转弯前约5尺 | [[../03-战役（Campaign）/01-NPC（NPCs）/托宾（Tobin）]] |
+| npc-hunter-tobin | 托宾 | 10/11 | 12 | 短剑、熄灭的半燃火把 | 前卫保护；左弯后下倾直廊前段 | [[../03-战役（Campaign）/01-NPC（NPCs）/托宾（Tobin）]] |
 | npc-hunter-mara | 玛拉 | 10/11 | 12 | 短弓、10箭、短剑 | 纵队第三；出现直线射界时远程支援 | [[../03-战役（Campaign）/01-NPC（NPCs）/玛拉（Mara）]] |
 | npc-captive-hunter | 老德雷克 | 10/11 | 12 | 遮光提灯、短刀 | 殿后照明与追踪；生存检定总值21 | [[../03-战役（Campaign）/01-NPC（NPCs）/老德雷克（Old-Drake）]] |
 
@@ -53,6 +53,6 @@ agent_may_modify: true
 4. **老德雷克**：最后方，持打开的遮光提灯并读取脚印、水痕和路线变化。
 
 - 相邻成员之间约5尺。
-- 当前位于排水廊首个左转弯前；托宾距弯角约5尺。
-- 司钥官估计领先艾伦约100尺，地下河水声正在干扰追踪。
+- 当前位于首个左弯后的下倾直廊前段；前方约35尺为地下河边缘铁格栅平台。
+- 司钥官估计领先艾伦约115尺，地下河轰鸣几乎完全掩盖其声音。
 - 队形优先降低伏击与失足风险，因此推进速度低于全队疾走。
