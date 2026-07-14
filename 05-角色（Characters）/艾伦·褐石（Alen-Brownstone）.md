@@ -7,9 +7,9 @@ aliases: ["小石头", "褐石家的儿子"]
 player: 待填写
 level: 1
 class: Paladin
-revision: 33
-updated_at: 2026-07-13T20:25:50+08:00
-last_event_id: evt-20260713-0196
+revision: 34
+updated_at: 2026-07-13T20:28:40+08:00
+last_event_id: evt-20260713-0211
 agent_may_modify: partial
 ---
 
@@ -26,7 +26,7 @@ agent_may_modify: partial
 
 ## 核心数据
 
-- 当前 HP / 最大 HP：**9 / 14**
+- 当前 HP / 最大 HP：**3 / 14**
 - 临时 HP：0
 - AC：**18**（链甲 Chain Mail 16 + 盾牌 Shield 2）
 - 速度：30 ft.
@@ -122,7 +122,7 @@ agent_may_modify: partial
 
 ## 状态与持续效果
 
-当前无异常状态；艾伦以9/14 HP清醒站立。神圣感知剩余1/2次；第15轮感知未发现60尺内存在不死生物、邪魔或天界生物。
+当前无异常状态；艾伦以3/14 HP清醒站立于主平台下方排水廊服务梯底。第19轮快速滑降失手，从约10尺高度坠落并受到6点钝击；正常移动已用尽，动作与附赠动作仍可使用。神圣感知剩余1/2次；第15轮感知未发现60尺内存在不死生物、邪魔或天界生物。
 
 ## 角色塑造
 
